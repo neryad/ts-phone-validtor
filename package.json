@@ -1,0 +1,31 @@
+{
+  "name": "telephonecheck",
+  "version": "2.0.6",
+  "description": "This package helps you validate if a telephone number is well written according to common formats",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neryad/ts-phone-validtor.git"
+  },
+  "keywords": [
+    "ts"
+  ],
+  "author": "neryad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neryad/ts-phone-validtor/issues"
+  },
+  "homepage": "https://github.com/neryad/ts-phone-validtor#readme",
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "typescript": "^5.4.5"
+  }
+}
