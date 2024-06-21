@@ -64,10 +64,12 @@ console.log(telephoneCheck("123")); // false
 console.log(telephoneCheck("abc-def-ghij")); // false
 
 ```
-## Looking for Flutter / Dart version? 
-#### Also available in pub.dev, take a look! <br />
-[![npm](
-https://img.shields.io/badge/do__validator-blue.svg?logo=dart&logoColor=white)]([https://pub.dev/packages/do_validator](https://pub.dev/packages/telephone_check))
+## Looking for the Flutter / Dart Version?
+
+### Also available on pub.dev! Check it out:
+[![Pub Badge](https://img.shields.io/badge/pub.dev-TelephoneCheck-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/telephone_check)
+[![GitHub Repo](https://img.shields.io/badge/Repository-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neryad/dart_phone_checker.git)
+
 
 
 ## Issues
